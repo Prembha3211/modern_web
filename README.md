@@ -49,11 +49,22 @@ Make sure you have the following installed on your machine:
 Cloning the Repository
 
 
-# Black Box Example
+# Cloning the Repository
 
-<div style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
-  <pre>This is a black box with white text.</pre>
-</div>
+<li>git clone https://github.com/adrianhajdin/award-winning-website.git
+cd award-winning-website</li>
+
+Installation
+
+Install the project dependencies using npm:
+
+<li>npm install</li>
+
+Running the Project
+
+<li>npm run dev</li>
+
+
 
 
 
