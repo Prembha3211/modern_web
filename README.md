@@ -47,8 +47,10 @@ Make sure you have the following installed on your machine:
 <li>npm </li>
 
 Cloning the Repository
-<div className="bg-blue-800">
-git clone https://github.com/adrianhajdin/award-winning-website.git
+
+<div style="width: 300px; height: 100px; border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
+  git clone https://github.com/adrianhajdin/award-winning-website.git
 cd award-winning-website
 </div>
+
 
