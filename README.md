@@ -1,4 +1,8 @@
 #
 
 ![Project Screenshot](./public/img/ard.png)
-       ![Alt text](./public/img/reac.svg) ![Alt text](./public/img/gsap.svg) ![Alt text](./public/img/tailwind.svg)
+                                        <div align="center">
+  <img src="./public/img/reac.svg" alt="React" width="80" />
+  <img src="./public/img/gsap.svg" alt="GSAP" width="80" />
+  <img src="./public/img/tailwind.svg" alt="Tailwind" width="80" />
+</div>
