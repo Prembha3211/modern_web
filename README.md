@@ -48,12 +48,14 @@ Make sure you have the following installed on your machine:
 
 Cloning the Repository
 
-<div style="width: 400px; height: 150px; overflow: auto; border: 1px solid #ccc; padding: 10px; background-color: #404040;">
-  <pre>
-    git clone https://github.com/adrianhajdin/award-winning-website.git
-    cd award-winning-website
-  </pre>
+# Example Box with Custom Size
+
+Below is a custom-sized box:
+
+<div style="width: 300px; height: 100px; border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
+  This is a box with custom height and width.
 </div>
+
 
 
 
