@@ -51,11 +51,10 @@ Cloning the Repository
 
 # Black Box Example
 
-Here’s a black box with white text:
-
-<div style="background-color: black; color: white; width: 100%; padding: 20px; border-radius: 5px;">
-  This is a black box with white text.
+<div style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
+  <pre>This is a black box with white text.</pre>
 </div>
+
 
 
 
