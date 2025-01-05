@@ -47,7 +47,8 @@ Make sure you have the following installed on your machine:
 <li>npm </li>
 
 Cloning the Repository
-
-`git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website`
+<div className="bg-blue-800">
+git clone https://github.com/adrianhajdin/award-winning-website.git
+cd award-winning-website
+</div>
 
