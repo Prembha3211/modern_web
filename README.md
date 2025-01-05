@@ -48,13 +48,16 @@ Make sure you have the following installed on your machine:
 
 Cloning the Repository
 
-# Example Box with Custom Size
 
-Below is a custom-sized box:
+# Black Box Example
 
-<div style="width: 300px; height: 100px; border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
-  This is a box with custom height and width.
+Here’s a black box with white text:
+
+<div style="background-color: black; color: white; width: 100%; padding: 20px; border-radius: 5px;">
+  This is a black box with white text.
 </div>
+
+
 
 
 
