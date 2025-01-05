@@ -41,5 +41,13 @@ Follow these steps to set up the project locally on your machine.
 
 Prerequisites
 
-Make sure you have the following installed on your machine: 
+Make sure you have the following installed on your machine:
+
+<li>Git</li>
+<li>npm </li>
+
+Cloning the Repository
+
+`git clone https://github.com/adrianhajdin/award-winning-website.git
+cd award-winning-website`
 
